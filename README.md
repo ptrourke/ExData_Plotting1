@@ -28,7 +28,7 @@ The file was designed to be run from a folder called "ExData_Plotting1" in the u
 
   - `plot4.png`  - an example of the output of `plot4.R`
 
-The files I used to determine the correct rows for the data are accessible from the Git repository history if you're curious.
+I used a few other scripts to determine the correct row numbers but have not included them in the repository. 
 
 ## Original Instructions
 

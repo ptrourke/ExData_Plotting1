@@ -1,5 +1,37 @@
 ## Introduction
 
+This is my work for the first programming assignment in Coursera's Exploratory Data Analysis course.
+
+I have added the following files: 
+
+* plot1.R - an R script that takes data from the UC Irvine Machine Learning Repository (as described below) and generates ine plot from power consumption data, saving it as a PNG file.
+
+The file was designed to be run from a folder called "ExData_Plotting1" in the user's home directory. It will download the original data from a Cloudfront server used by Coursera, unzip the file, load only the data required for the plot, then generate the plot as a png file. It will not display the plot on the screen.
+
+  - `plot1.png` - an example of the output of `plot1.R`
+
+* `plot2.R` - an R script that takes data from the UC Irvine Machine Learning Repository (as described below) and generates a line plot with multiple lines and a legend from power consumption data, saving it as a PNG file.
+
+The file was designed to be run from a folder called "ExData_Plotting1" in the user's home directory. It will download the original data from a Cloudfront server used by Coursera, unzip the file, load only the data required for the plot, then generate the plot as a png file. It will not display the plot on the screen.
+
+  - `plot2.png` - an example of the output of `plot2.R`
+  
+* `plot3.R` - an R script that takes data from the UC Irvine Machine Learning Repository (as described below) and generates a multi-part plot from power consumption data, saving it as a PNG file.
+
+The file was designed to be run from a folder called "ExData_Plotting1" in the user's home directory. It will download the original data from a Cloudfront server used by Coursera, unzip the file, load only the data required for the plot, then generate the plot as a png file. It will not display the plot on the screen.
+
+  - `plot3.png`  - an example of the output of `plot3.R`
+  
+* `plot4.R` - an R script that takes data from the UC Irvine Machine Learning Repository (as described below) and generates a histogram from power consumption data, saving it as a PNG file.
+
+The file was designed to be run from a folder called "ExData_Plotting1" in the user's home directory. It will download the original data from a Cloudfront server used by Coursera, unzip the file, load only the data required for the plot, then generate the plot as a png file. It will not display the plot on the screen.
+
+  - `plot4.png`  - an example of the output of `plot4.R`
+
+The files I used to determine the correct rows for the data are accessible from the Git repository history if you're curious.
+
+## Original Instructions
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
